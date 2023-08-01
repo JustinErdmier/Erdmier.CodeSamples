@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Personal", "Personal", "{4BB508FB-7EEF-4E3E-AE87-46D9A910848A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JustinianErdmier", "JustinianErdmier", "{4BB508FB-7EEF-4E3E-AE87-46D9A910848A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AndrewLock", "AndrewLock", "{BD0D8595-896A-4EF1-A84C-CCBC649A46E6}"
 EndProject
